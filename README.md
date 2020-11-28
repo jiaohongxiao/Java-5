@@ -108,9 +108,8 @@ public static void writeFile(String newStr, String stuStr, String countStr) thro
 ```
 
 **四、实验结果**
-
+eclipse运行结果为
 ```
-eclipse运行结果：
 -------学生作业系统-------
 请输入学生姓名:焦鸿霄
 请输入学生年龄:22
